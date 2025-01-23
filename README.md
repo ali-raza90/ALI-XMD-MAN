@@ -159,7 +159,7 @@ HEROKU
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ** 
 
 </a></p>
-- <a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/LUCKY_MD' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔-rgb(32, 178, 170)?style=for-the-badge&logo=ferrari&logoColor=yellow' width="240" height="38.45"/></a>
+- <a href='https://dashboard.heroku.com/new?template=https://github.com/ali-raza90/ALI-XMD-MAN' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔-rgb(32, 178, 170)?style=for-the-badge&logo=ferrari&logoColor=yellow' width="240" height="38.45"/></a>
 
 
 
@@ -219,8 +219,8 @@ The WhatsApp Bot 𝐀𝐋𝐈 𝐌𝐃 is released under the [MIT License](https
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**FREDIE TECH**](https://github.com/ed1e)
-- [**BELTAH TECH**](https://github.com/ELTAHMD)
+- [**ALI TECH**](https://github.com/ed1e)
+- [**ABDULLAH TECH**](https://github.com/ELTAHMD)
 - [**TELEGRAM**](t.me/frediech)
 - [**Developers YT**](https://www.youtube.com/@eeonlinetvT1)
 
