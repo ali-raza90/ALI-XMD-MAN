@@ -1,8 +1,8 @@
 {
-  "name":"ALI-XMD",
-  "description":"Best whatsapp bot created by ALI",
+  "name":"LUCKY-MD",
+  "description":"Best whatsapp bot created by FREDIEZRA",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://cdn.ironman.my.id/q/BXTKN.jpg",
+  "logo":"https://files.catbox.moe/7irwqn.jpeg",
   "repository":"https://github.com/Fred1e/LUCKY_MD",
   "succes_url":"/",
   "stack":"container",
@@ -77,14 +77,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"𝐀ℓι̇ι̇-𝐌𝐃",
+    "value":"LUCKY_MD",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://cdn.ironman.my.id/q/BXTKN.jpg",
+    "value":"https://files.catbox.moe/7irwqn.jpeg",
     "required":false
        
      },
@@ -97,7 +97,7 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "HRKU-cb0818a7-d92a-4936-8610-9e13462215ec", 
+     "value":"HRKU-4e30b0fa-c892-471f-833b-dbdb416de2d3", 
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -117,14 +117,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ALI-XER"
+    "value": "fredietech"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "923003588997"
+    "value": "255752593977"
   },
     "WARN_COUNT":
   {
@@ -179,4 +179,4 @@
       "plan": "heroku-postgresql:essential-0"
     }
   ]
-  }
+}
